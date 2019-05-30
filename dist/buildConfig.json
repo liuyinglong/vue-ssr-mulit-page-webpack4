@@ -1,0 +1,7 @@
+{
+    "home": {
+        "serverBundle": "server/home/vue-ssr-server-bundle.json",
+        "templatePath": "template/home/app.html",
+        "pathName": "home/app"
+    }
+}
